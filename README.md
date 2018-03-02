@@ -61,4 +61,4 @@ This just means that the color map file name was typed incorrectly.
 **Note:  This particular method only works in mac**, although there may be other methods that work with Windows or Linux.
 
 ### Disclaimer:
-Although I wrote this code, please do not give me credit for comming up with this method of graphing functions.  I heard the idea at the PME Math Confernece in Youngstown, OH.
+Although I wrote this code, please do not give me the credit for comming up with this idea.  I heard this idea at a talk during the PME Math Conference in Youngstown, OH.
