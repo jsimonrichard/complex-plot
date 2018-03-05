@@ -14,9 +14,9 @@ c. pillow
 
 Please note that these instructions are Mac based.  Additional installations may be required on a Windows computer.  Linux Distros should not need additional installations, with the exception of the ` curl ` command.  An alternate will need to be found for that.
 
-1. Download the .zip place it on your desktop (this will make the terminal part easy). Then, extract the zip file by double-clicking on it. This will create a new folder on your desktop called Complex.
+1. Download the .zip place it on your desktop (this will make the terminal part easy). Then, extract the zip file by double-clicking on it. This will create a new folder on your desktop called complex-plot-master.
 
-2. Next, open terminal (use launchpad). In the bottom line, there should be your computer name, a colon, and a ` ~ `. This means that you are in your home directory. Type ` cd Desktop ` into the terminal, and hit enter. This should change the ` ~ ` to ` Desktop `. Next, type ` cd Complex ` into the terminal. You should now be in the folder with the pictures and code.
+2. Next, open terminal (use launchpad). In the bottom line, there should be your computer name, a colon, and a ` ~ `. This means that you are in your home directory. Type ` cd Desktop ` into the terminal, and hit enter. This should change the ` ~ ` to ` Desktop `. Next, type ` cd complex-plot-master ` into the terminal. You should now be in the folder with the pictures and code.
 
 3. Now, we will need to install some things. These are just dependencies for the program that I wrote. The first thing that you will need to install is pip. Type these lines into terminal:
 ` curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py `
